@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/y-sugiyama654/typescript-for-practice/issues"
   },
-  "homepage": "https://github.com/y-sugiyama654/typescript-for-practice#readme"
+  "homepage": "https://github.com/y-sugiyama654/typescript-for-practice#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
