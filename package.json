@@ -19,5 +19,9 @@
   "homepage": "https://github.com/y-sugiyama654/typescript-for-practice#readme",
   "devDependencies": {
     "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.8",
+    "ts-node": "^10.4.0"
   }
 }
