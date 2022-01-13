@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@types/node": "^17.0.8",
+    "axios": "^0.24.0",
     "ts-node": "^10.4.0"
   }
 }
