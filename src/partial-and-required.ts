@@ -9,7 +9,6 @@ type Profile = {
 
 type PartialaType = Partial<Profile>;
 
-
 // Required(必須)
 type Profile2 = {
     name: string;
